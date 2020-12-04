@@ -1,0 +1,22 @@
+ADS Assingment1
+Write the program for the following  And perform the operations
+Program                Operations
+array                  add, delete
+stack                  push,  pop, peek
+Brackets               single, multiple 
+generics               stack
+==Queue==
+linear queue           dequeue, enqueue, display
+circular queue         dequeue, enqueue, display
+ 
+doubly queue    dequeue, enqueue, display
+==linklist==
+Singly LL               node create,add first, add last, insert in between, 
+			delete first,delete last,delete in between, display 
+
+doubly LL               node create,add first, add last, insert in between, 
+			delete first,delete last,delete in between, display 
+
+
+using link list         stack, queue And its operatons
+ 
